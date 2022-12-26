@@ -1,0 +1,115 @@
+<nav class="navbar bg-light fixed-top">
+  <div class="container-fluid">
+    <a  class="navbar-brand" href="#" > <img style="height:60px; margin-left: 23px" src="assets/images/logo.PNG"/></a>
+
+    <div class=" dropdown" >
+      <a class="nav-link dropdown-toggle" id="account" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+        <i class="zmdi zmdi-account " style="margin-right: 5px"> </i>
+      </a>
+      <div class="dropdown-menu"  aria-labelledby="account">
+
+        <div class="container">
+          <div class="alert alert-success" role="alert">
+            <a routerLink="/listpersonne" class="alert-link"><i class="zmdi zmdi-account"style="margin-right: 10px"> Profile</i></a>
+          </div>
+          <div class="alert alert-warning" role="alert">
+            <a routerLink="/listpersonne" class="alert-link"><i class="zmdi zmdi-settings"style="margin-right: 10px"> Setting</i></a>
+          </div>
+          <hr class="dropdown-divider bg-info">
+          <div class="alert alert-danger" role="alert">
+            <a  class="alert-link btn"><i class="zmdi zmdi-settings"style="margin-right: 10px"  > Logout</i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class=" dropdown" style="width: 70%" >
+      <a class="nav-link dropdown-toggle" id="notifs" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+        <span class="badge badge-info"> <i class="zmdi zmdi-notifications-active"></i></span>
+      </a>
+      <div class="dropdown-menu"  aria-labelledby="notifs">
+
+        <div class="sufee-alert alert with-close alert-warning alert-dismissible fade show" style="margin: 10px">
+          <div style="font-size: 15px"> There is a
+            <span class="badge badge-pill badge-warning"> 30</span>
+            Commands
+          </div>
+
+          <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+
+        <div class="sufee-alert alert with-close alert-danger alert-dismissible fade show" style="margin: 10px">
+          <div style="font-size: 15px"> 23 products
+            <span class="badge badge-pill badge-danger"></span>
+            added
+          </div>
+
+          <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+
+        <hr class="dropdown-divider bg-primary ">
+
+        <div class="sufee-alert alert with-close alert-success alert-dismissible fade show" style="margin: 10px">
+
+          <div style="font-size: 15px">  Inventory management
+            <a routerLink="/calendar">  <span class="alert-link">List of new product</span>
+            </a>
+          </div>
+
+        </div>
+
+
+      </div>
+    </div>
+
+
+
+
+    <button  class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+      <div class="offcanvas-header">
+        <h5 class="offcanvas-title bg-primary text-white" style="padding-left: 40px; padding-right: 40px; padding-bottom: 7px;padding-top: 7px;" id="offcanvasNavbarLabel">Menu</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+      <div class="offcanvas-body">
+        <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" routerLink="/">Tableau de bord</a>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle text-primary" href="#" id="offPersonneDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Product Management
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="offPersonneDropdown">
+              <li><a class="dropdown-item" routerLink="/listpersonne">List Of Products </a></li>
+              <li><a class="dropdown-item" routerLink="/addpersonne">Add product</a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle text-primary" href="#" id="offcanvasNavbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Customer Management
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="offcanvasNavbarDropdown">
+              <li><a class="dropdown-item" routerLink="/listtask">List Of Customers</a></li>
+              <li><a class="dropdown-item" routerLink="/addtask">Add customer </a></li>
+            </ul>
+          </li>
+
+        </ul>
+        <form class="d-flex" role="search">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</nav>
+
