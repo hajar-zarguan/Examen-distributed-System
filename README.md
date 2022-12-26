@@ -57,6 +57,7 @@ Voici la base de donnnes generee
 ## 5. Développer le micro-service Inventory-Service
 
 ![image](https://user-images.githubusercontent.com/82539023/209543968-58a26f9b-6841-43dd-ae59-3dd046da9597.png)
+![image](https://user-images.githubusercontent.com/82539023/209547510-441ad98c-e8ad-4e21-846f-10fddc5b4159.png)
 
 
 ## 6. Développer le micro-service Order-Service
