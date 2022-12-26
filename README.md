@@ -64,6 +64,15 @@ Voici la base de donnnes generee
 
 
 ## 9. Développer votre application Frontend avec Angular 
+
+![image](https://user-images.githubusercontent.com/82539023/209541196-647b32e7-97f0-4205-91f7-182d6cea8942.png)
+
+![image](https://user-images.githubusercontent.com/82539023/209541229-bed259b5-cfd5-4c39-9f79-d260ddac0580.png)
+
+![image](https://user-images.githubusercontent.com/82539023/209541258-9522207e-f3e4-4e85-b496-035d4f839e5e.png)
+
+
+
 ## 10. Sécuriser votre système avec un système de d’authentification OAuth2, OIDC avec Keycloak
 
 ![image](https://user-images.githubusercontent.com/82539023/209534193-1fb35c2b-ae90-4247-a22e-a1be63518090.png)
@@ -79,6 +88,19 @@ User
 ![image](https://user-images.githubusercontent.com/82539023/209534442-d364cc54-bc73-46cb-9c52-020ab6297675.png)
 
 
+Les dependances en spring boot de keyloack 
 
+![image](https://user-images.githubusercontent.com/82539023/209541446-b1f9677c-6e2d-4b76-a550-126cc4bef7fe.png)
+
+Les proprietés du microservice de la configuration de securite 
+
+![image](https://user-images.githubusercontent.com/82539023/209541537-ace945bb-23ed-46de-b5c5-693f67ee9822.png)
+
+[Cliquer pour voir le code complet](https://github.com/hajar-zarguan/Examen-distributed-System/tree/main/Security-service)
 
 ## 11. Écrire un script docker-compose.yml pour le déploiement de ce système distribué dans desconteneurs docker.
+
+![image](https://user-images.githubusercontent.com/82539023/209541286-0517a10d-627d-4001-8cf6-c37f19e47474.png)
+
+
+
