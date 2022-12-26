@@ -64,6 +64,15 @@ Voici la base de donnnes generee
 
 
 ## 9. Développer votre application Frontend avec Angular 
+
+![image](https://user-images.githubusercontent.com/82539023/209541196-647b32e7-97f0-4205-91f7-182d6cea8942.png)
+
+![image](https://user-images.githubusercontent.com/82539023/209541229-bed259b5-cfd5-4c39-9f79-d260ddac0580.png)
+
+![image](https://user-images.githubusercontent.com/82539023/209541258-9522207e-f3e4-4e85-b496-035d4f839e5e.png)
+
+
+
 ## 10. Sécuriser votre système avec un système de d’authentification OAuth2, OIDC avec Keycloak
 
 ![image](https://user-images.githubusercontent.com/82539023/209534193-1fb35c2b-ae90-4247-a22e-a1be63518090.png)
@@ -82,3 +91,8 @@ User
 
 
 ## 11. Écrire un script docker-compose.yml pour le déploiement de ce système distribué dans desconteneurs docker.
+
+![image](https://user-images.githubusercontent.com/82539023/209541286-0517a10d-627d-4001-8cf6-c37f19e47474.png)
+
+
+
