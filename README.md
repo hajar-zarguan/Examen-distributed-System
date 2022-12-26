@@ -19,8 +19,39 @@ Voici larchitecture de la sécurité que je vais adopter
 
 
 ## 3. Déployer le serveur AXON Server
+Lancement du serveur 
+
+![image](https://user-images.githubusercontent.com/82539023/209525393-d14a9b93-3878-45ac-a2b0-06df682ecd49.png)
+
+Au demarrage nous avons pas encore realiser les microservices 
+
+![image](https://user-images.githubusercontent.com/82539023/209525477-0661ebc1-42e4-4f8e-9bf4-cb058247a397.png)
+
 
 ## 4. Développer le micro-service Customer-Service
+
+Voici les propreites deu microservice 1 :  Customer-Service
+
+Larchitecture de commandSide
+
+![CommandSide](https://user-images.githubusercontent.com/82539023/209531944-db7b02ab-fb7c-4fd5-8833-bb49096a3c6d.png)
+
+![image](https://user-images.githubusercontent.com/82539023/209531499-39f380db-8024-43f9-8fa8-6d31f7170e2c.png)
+
+Voici Command Side 
+
+![image](https://user-images.githubusercontent.com/82539023/209531572-5873cb82-3d06-4ed3-bd6b-9594941819ac.png)
+
+Voici Query Side 
+
+![image](https://user-images.githubusercontent.com/82539023/209531623-589f84d9-c9ad-4a38-b2e9-d1d351c00e95.png)
+
+Voici la base de donnnes generee 
+
+![image](https://user-images.githubusercontent.com/82539023/209532513-65c3f7f0-6c73-41ed-9b2b-b7335419a883.png)
+
+
+
 
 ## 5. Développer le micro-service Inventory-Service
 
