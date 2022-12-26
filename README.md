@@ -59,6 +59,10 @@ Voici la base de donnnes generee
 ## 6. Développer le micro-service Order-Service
 
 ## 7. Mettre en place les services techniques de l’architecture micro-service (Gateway, Eureka)
+![image](https://user-images.githubusercontent.com/82539023/209539131-e4b212a5-b5f4-4045-9e25-2f6bb2287771.png)
+
+
+
 ## 9. Développer votre application Frontend avec Angular 
 ## 10. Sécuriser votre système avec un système de d’authentification OAuth2, OIDC avec Keycloak
 
