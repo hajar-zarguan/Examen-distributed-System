@@ -19,6 +19,14 @@ Voici larchitecture de la sécurité que je vais adopter
 
 
 ## 3. Déployer le serveur AXON Server
+Lancement du serveur 
+
+![image](https://user-images.githubusercontent.com/82539023/209525393-d14a9b93-3878-45ac-a2b0-06df682ecd49.png)
+
+Au demarrage nous avons pas encore realiser les microservices 
+
+![image](https://user-images.githubusercontent.com/82539023/209525477-0661ebc1-42e4-4f8e-9bf4-cb058247a397.png)
+
 
 ## 4. Développer le micro-service Customer-Service
 
