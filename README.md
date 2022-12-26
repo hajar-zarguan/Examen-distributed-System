@@ -56,6 +56,9 @@ Voici la base de donnnes generee
 
 ## 5. Développer le micro-service Inventory-Service
 
+![image](https://user-images.githubusercontent.com/82539023/209543968-58a26f9b-6841-43dd-ae59-3dd046da9597.png)
+
+
 ## 6. Développer le micro-service Order-Service
 
 ## 7. Mettre en place les services techniques de l’architecture micro-service (Gateway, Eureka)
