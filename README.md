@@ -60,4 +60,17 @@ Voici la base de donnnes generee
 ## 7. Mettre en place les services techniques de l’architecture micro-service (Gateway, Eureka)
 ## 9. Développer votre application Frontend avec Angular 
 ## 10. Sécuriser votre système avec un système de d’authentification OAuth2, OIDC avec Keycloak
+
+![image](https://user-images.githubusercontent.com/82539023/209534193-1fb35c2b-ae90-4247-a22e-a1be63518090.png)
+
+Client 
+
+![image](https://user-images.githubusercontent.com/82539023/209534288-003494b3-794f-45e6-97b2-7db37cd3f3c8.png)
+
+User 
+
+![image](https://user-images.githubusercontent.com/82539023/209534364-17e34e04-113d-4800-9ed0-1283ebb90da6.png)
+
+![image](https://user-images.githubusercontent.com/82539023/209534442-d364cc54-bc73-46cb-9c52-020ab6297675.png)
+
 ## 11. Écrire un script docker-compose.yml pour le déploiement de ce système distribué dans desconteneurs docker.
