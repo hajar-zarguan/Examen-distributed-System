@@ -50,6 +50,7 @@ Voici la base de donnnes generee
 
 ![image](https://user-images.githubusercontent.com/82539023/209532513-65c3f7f0-6c73-41ed-9b2b-b7335419a883.png)
 
+![image](https://user-images.githubusercontent.com/82539023/209536368-cfd94b5c-9603-4f37-8b97-d8e6774a2359.png)
 
 
 
